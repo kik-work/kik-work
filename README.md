@@ -40,11 +40,20 @@
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
 
 ---
 
 ## 💼 Experience
+
+### 🏢 Jr. Software Engineer — Nidus Lab
+📅 Jan 2026 – Present | Full Time  
+- Develop, test, and maintain **Laravel-based backend applications**  
+- Build modern **Next.js + TypeScript frontend interfaces**  
+- Design and manage **RESTful APIs** for web & mobile apps  
+- Integrate **third-party services** (payments, SMS, email)  
+- Collaborate with **design, product & QA teams**  
+
+---
 
 ### 🏢 Junior Software Developer — Alor Feri Limited
 📅 Aug 2025 – Dec 2025  
@@ -52,12 +61,13 @@
 - Performed **code reviews & debugging**  
 - Collaborated with team & improved code quality  
 
+---
+
 ### 🏢 Backend Intern — Pressply LLC
 📅 Jan 2024 – May 2024  
 - Built **e-commerce backend** using Express & PostgreSQL  
 - Integrated **Stripe payment system**  
 - Worked closely with frontend team  
-
 ---
 
 ## 🚀 Projects
@@ -78,13 +88,6 @@
 
 ---
 
-### 🔹 E-Shop Management
-- Inventory + transaction tracking system  
-- Full backend architecture  
-- **Tech:** Node.js, Express, PostgreSQL  
-🔗 https://github.com/kakon-aiubcse/Eshopmanagementweb  
-
----
 
 ## 🎓 Education
 
@@ -92,36 +95,7 @@
 American International University-Bangladesh  
 📊 CGPA: **3.66 / 4.00**
 
----
 
-## 📜 Certification
-- Cisco IT Essentials (2020)
-
----
-
-## ⚡ Extras
-
-### 🧠 Core Skills
-- REST API Design  
-- Authentication & Security  
-- Error Handling  
-- Scalable Architecture  
-
-### 🤝 Soft Skills
-- Teamwork  
-- Communication  
-- Adaptability  
-- AI-assisted problem solving  
-
----
-
-## 🏏 Activities & Interests
-- 🏏 Cricket (Wicket Keeper Batsman)  
-- ⚽ Football (Forward)  
-- ♟️ Chess & Strategy Games  
-- 💰 Blockchain & Crypto Enthusiast  
-
----
 
 ## 📊 GitHub Stats
 
@@ -129,12 +103,6 @@ American International University-Bangladesh
   <img src="https://github-readme-stats.vercel.app/api?username=kakon-aiubcse&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakon-aiubcse&theme=tokyonight" />
 </p>
-
----
-
-## 📫 Contact Me
-📧 kakon.aiubcse@gmail.com  
-🌐 Portfolio: https://is.gd/ZI1F7b  
 
 ---
 
