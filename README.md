@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Khairul Islam Kakon</h1>
-<h3 align="center">💻 Software Engineer | Full Stack Developer</h3>
+<h1 align="center">Hi, I'm Khairul Islam Kakon</h1>
+<h3 align="center"> Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
-  <a href="mailto:kakon.aiubcse@gmail.com">📧 Email</a> •
-  <a href="https://t.ly/9mS-v">🔗 LinkedIn</a> •
+  <a href="mailto:kakon.aiubcse@gmail.com"> Email</a> •
+  <a href="https://t.ly/9mS-v"> LinkedIn</a> •
   <a href="https://is.gd/ZI1F7b">🌐 Portfolio</a> •
-  <a href="https://t.ly/h31V_">💻 GitHub</a>
+  <a href="https://t.ly/h31V_"> GitHub</a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💡 Passionate **Software Engineer** with real-world experience  
-- 🧠 Strong in **Full Stack Development & System Design**  
-- 🤝 Team player with solid communication skills  
-- ⚡ Focused on building **scalable & impactful solutions**  
+-  Passionate **Software Engineer** with real-world experience  
+-  Strong in **Full Stack Development & System Design**  
+-  Team player with solid communication skills  
+-  Focused on building **scalable & impactful solutions**  
 
 ---
 
