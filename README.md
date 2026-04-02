@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Khairul Islam Kakon</h1>
-<h3 align="center"> Software Engineer | Full Stack Developer</h3>
+<h3 align="center"> 💻 Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
   <a href="mailto:kakon.aiubcse@gmail.com"> Email</a> •
