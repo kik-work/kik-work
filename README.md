@@ -93,7 +93,7 @@
 
 🎓 **BSc in CSE (Software Engineering)**  
 American International University-Bangladesh  
-📊 CGPA: **3.66 / 4.00**
+CGPA: **3.66 / 4.00**
 
 
 
