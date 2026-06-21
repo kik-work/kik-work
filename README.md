@@ -207,16 +207,10 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakon-aiubcse&layout=compact&bg_color=EEEDFE&title_color=534AB7&text_color=3C3489&border_color=CECBF6&border_radius=12&hide_border=false" width="40%" />
-</div>
-
 <br/>
 
 ---
-
-<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=footer&text=Building%20scalable%20solutions%20%26%20learning%20every%20day&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=kakon-aiubcse&color=7F77DD&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true"/>
 </div>
+
