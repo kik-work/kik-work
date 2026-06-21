@@ -122,7 +122,6 @@
 - 🏗️ System design, development & testing
 - 🔍 Code reviews & debugging
 - 📈 Team collaboration & code quality improvement
-<br/>
 ### 🏢 Pressply LLC
 **Backend Intern**  
 📅 Jan 2024 – May 2024
@@ -165,7 +164,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="flex">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakon-aiubcse&theme=tokyonight&hide_border=true&background=EEEDFE&ring=7F77DD&fire=534AB7&currStreakLabel=3C3489&sideLabels=534AB7&dates=3C3489&currStreakNum=3C3489&sideNums=3C3489&stroke=CECBF6" width="49%" />
 <br/>  <img src="https://github-readme-stats.vercel.app/api?username=kakon-aiubcse&show_icons=true&theme=tokyonight&bg_color=EEEDFE&title_color=534AB7&icon_color=7F77DD&text_color=3C3489&border_color=CECBF6&border_radius=12&hide_border=false" width="49%" />
 </div>
