@@ -199,24 +199,24 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakon-aiubcse&theme=tokyonight&hide_border=true&background=EEEDFE&ring=7F77DD&fire=534AB7&currStreakLabel=3C3489&sideLabels=534AB7&dates=3C3489&currStreakNum=3C3489&sideNums=3C3489&stroke=CECBF6" width="49%" />
-<br/>  <img src="https://github-readme-stats.vercel.app/api?username=kakon-aiubcse&show_icons=true&theme=tokyonight&bg_color=EEEDFE&title_color=534AB7&icon_color=7F77DD&text_color=3C3489&border_color=CECBF6&border_radius=12&hide_border=false" width="49%" />
-</div>
-
-
+<br/>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kakon-aiubcse&label=Profile%20Views&color=7&icon=0&pretty=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakon-aiubcse&theme=tokyonight&hide_border=false&background=EEEDFE&ring=7F77DD&fire=534AB7&currStreakLabel=3C3489&sideLabels=534AB7&dates=534AB7&currStreakNum=3C3489&sideNums=3C3489&stroke=CECBF6&border=CECBF6" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kakon-aiubcse&show_icons=true&bg_color=EEEDFE&title_color=534AB7&icon_color=7F77DD&text_color=3C3489&border_color=CECBF6&border_radius=12&hide_border=false" width="49%" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakon-aiubcse&layout=compact&bg_color=EEEDFE&title_color=534AB7&text_color=3C3489&border_color=CECBF6&border_radius=12&hide_border=false" width="40%" />
+</div>
+
+<br/>
 
 ---
 
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=footer&text=Building%20scalable%20solutions%20%26%20learning%20every%20day&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kakon-aiubcse&label=Profile%20Views&color=7&icon=0&pretty=true" />
 </div>
