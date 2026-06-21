@@ -98,57 +98,92 @@
 
 ## 💼 Experience
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<br/>
 
-### 🏢 Nidus Lab
-**Jr. Software Engineer** · Full Time  
-📅 Jan 2026 – Present
+<!-- Nidus Lab -->
+<img src="https://img.shields.io/badge/Nidus%20Lab-EEEDFE?style=for-the-badge&logoColor=534AB7&labelColor=534AB7&color=EEEDFE" />
+&nbsp;
+<img src="https://img.shields.io/badge/Jan%202026–Present-7F77DD?style=flat-square&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Full%20Time-3C3489?style=flat-square" />
+
+**Jr. Software Engineer**
 
 - 🔧 Laravel-based backend development & testing
 - ⚛️ Next.js + TypeScript frontend interfaces
-- 🔌 RESTful API design for web & mobile
-- 💳 Third-party integrations (payments, SMS, email)
+- 🔌 RESTful API design for web & mobile apps
+- 💳 Third-party integrations — payments, SMS, email
 - 🤝 Collaboration with design, product & QA teams
 
-  </td>
-  <td valign="top" width="50%">
+<br/>
 
-### 🏢 Alor Feri Limited
-**Junior Software Developer**  
-📅 Aug 2025 – Dec 2025
+<!-- Alor Feri Limited -->
+<img src="https://img.shields.io/badge/Alor%20Feri%20Limited-EEEDFE?style=for-the-badge&logoColor=534AB7&labelColor=534AB7&color=EEEDFE" />
+&nbsp;
+<img src="https://img.shields.io/badge/Aug%202025–Dec%202025-7F77DD?style=flat-square" />
+
+**Junior Software Developer**
 
 - 🏗️ System design, development & testing
 - 🔍 Code reviews & debugging
 - 📈 Team collaboration & code quality improvement
-### 🏢 Pressply LLC
-**Backend Intern**  
-📅 Jan 2024 – May 2024
+
+<br/>
+
+<!-- Pressply LLC -->
+<img src="https://img.shields.io/badge/Pressply%20LLC-EEEDFE?style=for-the-badge&logoColor=534AB7&labelColor=534AB7&color=EEEDFE" />
+&nbsp;
+<img src="https://img.shields.io/badge/Jan%202024–May%202024-7F77DD?style=flat-square" />
+
+**Backend Intern**
 
 - 🛒 E-commerce backend with Express & PostgreSQL
 - 💳 Stripe payment system integration
 - 🤝 Close collaboration with frontend team
 
-  </td>
-  </tr>
-</table>
-
 ---
 
 ## 🚀 Projects
 
+<br/>
+
 <div align="center">
 
-| Project | Description | Tech | Live |
-|:-------:|:-----------:|:----:|:----:|
-| **🔮 KIK QR Card** | Smart digital QR-based profile sharing with live preview & customization | `Next.js` `MongoDB` `Tailwind` | [🔗 View](https://is.gd/77VNPv) |
-| **📅 Booking System** | Booking tracking + invoice generation with receipt downloads | `Next.js` `Firebase` | [🔗 View](https://is.gd/lBG66L) |
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Tech Stack</th>
+      <th>Live</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>🔮 KIK QR Card</b></td>
+      <td>Smart digital QR-based profile sharing with live preview &amp; customization</td>
+      <td>
+        <img src="https://img.shields.io/badge/Next.js-3C3489?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-534AB7?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-7F77DD?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      </td>
+      <td align="center"><a href="https://is.gd/77VNPv"><img src="https://img.shields.io/badge/View-EEEDFE?style=flat-square&logo=vercel&logoColor=534AB7"/></a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>📅 Booking System</b></td>
+      <td>Booking tracking + invoice generation with downloadable receipts</td>
+      <td>
+        <img src="https://img.shields.io/badge/Next.js-3C3489?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-534AB7?style=flat-square&logo=firebase&logoColor=white"/>
+      </td>
+      <td align="center"><a href="https://is.gd/lBG66L"><img src="https://img.shields.io/badge/View-EEEDFE?style=flat-square&logo=vercel&logoColor=534AB7"/></a></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
 ---
-
 ## 🎓 Education
 
 <div align="center">
@@ -181,5 +216,5 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kakon-aiubcse&color=7F77DD&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://visitcount.itsvg.in/api?id=kakon-aiubcse&label=Profile%20Views&color=7&icon=0&pretty=true" />
 </div>
