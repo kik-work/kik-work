@@ -15,7 +15,7 @@
   <a href="mailto:kakon.aiubcse@gmail.com">
     <img src="https://img.shields.io/badge/Email-7F77DD?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://t.ly/9mS-">
+  <a href="https://www.linkedin.com/in/khairul-islam-kakon-12618222a/">
     <img src="https://img.shields.io/badge/LinkedIn-534AB7?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
   <a href="https://is.gd/ZI1F7b">
