@@ -1,216 +1,143 @@
-<!-- Header Banner -->
+<!-- ============ HEADER ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Khairul%20Islam%20Kakon&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descColor=EEEDFE" width="100%"/>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:3C3489,50:534AB7,100:7F77DD&section=header&text=Khairul%20Islam%20Kakon&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Backend-focused%20Full-Stack%20Engineer&descSize=18&descAlignY=58&descColor=EEEDFE" width="100%" alt="Khairul Islam Kakon"/>
 
-<!-- Typing animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Laravel+%2B+Next.js+Engineer+%E2%9A%A1;Building+Scalable+Solutions+%F0%9F%9A%80;Open+to+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<!-- Social Links -->
-<div align="center">
-  <a href="mailto:kakon.aiubcse@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7F77DD?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/khairul-islam-kakon-12618222a/">
-    <img src="https://img.shields.io/badge/LinkedIn-534AB7?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://is.gd/ZI1F7b">
-    <img src="https://img.shields.io/badge/Portfolio-3C3489?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://t.ly/h31V_">
-    <img src="https://img.shields.io/badge/GitHub-AFA9EC?style=for-the-badge&logo=github&logoColor=3C3489"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7F77DD&center=true&vCenter=true&width=640&height=40&lines=Laravel+%2B+Next.js+Engineer;9%2B+live+projects+shipped;E-commerce+%C2%B7+SaaS+%C2%B7+Donation+%C2%B7+Pension+platforms;bKash+%C2%B7+Stripe+%C2%B7+Pathao+integrations" alt="Typing animation"/>
   </a>
+
+  <br/><br/>
+
+  <a href="mailto:kakon.aiubcse@gmail.com"><img src="https://img.shields.io/badge/Email-3C3489?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/khairul-islam-kakon-12618222a/"><img src="https://img.shields.io/badge/LinkedIn-534AB7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://kikportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7F77DD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/kik-work"><img src="https://img.shields.io/badge/GitHub-AFA9EC?style=for-the-badge&logo=github&logoColor=3C3489" alt="GitHub"/></a>
 </div>
 
 <br/>
 
----
+## ✨ About
 
-## 🚀 About Me
+Backend-focused **Full-Stack Engineer** with nearly **2 years** of experience building **Laravel** applications and **REST APIs** with **Next.js** frontends.
+I've delivered **9+ live projects** across e-commerce, SaaS, donation and pension platforms, with third-party integrations like **bKash, Stripe and Pathao**, and I manage production environments through hosting control panels.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakon-aiubcse&layout=compact&theme=tokyonight&bg_color=EEEDFE&title_color=534AB7&text_color=3C3489&border_color=CECBF6&border_radius=12" width="38%" />
+|  |  |
+|---|---|
+| 🏢 **Now** | Software Engineer @ **Softtech Solution LTD.** |
+| 🧠 **Focus** | Scalable backends, clean APIs, role-based systems |
+| 🎓 **Education** | BSc in CSE (Software Engineering), AIUB, CGPA 3.66 / 4.00 |
+| 📍 **Location** | Bangladesh |
+| 📬 **Reach me** | [kakon.aiubcse@gmail.com](mailto:kakon.aiubcse@gmail.com) |
+| 🌟 **Status** | Open to opportunities |
 
-- 💡 Passionate **Software Engineer** with real-world experience
-- 🏗️ Strong in **Full Stack Development & System Design**
-- 🤝 Team player with solid communication skills
-- 🎯 Focused on building **scalable & impactful solutions**
-- 📍 Based in **Bangladesh**
-- 📬 Reach me at **kakon.aiubcse@gmail.com**
-
-<br clear="right"/>
-
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-<!-- Frontend -->
-<details open>
-<summary><b>👨‍💻 Frontend</b></summary>
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=php,js,ts,py,cpp" alt="Languages"/>
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=laravel,django,nodejs,express,prisma" alt="Backend"/>
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend"/>
+
+**Database & Cache**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" alt="Databases"/>
+
+**Tools & Deployment**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel" alt="Tools"/>
+
+<details>
+<summary><b>More skills</b></summary>
 <br/>
 
-![React](https://img.shields.io/badge/React-EEEDFE?style=for-the-badge&logo=react&logoColor=534AB7)
-![Next.js](https://img.shields.io/badge/Next.js-3C3489?style=for-the-badge&logo=nextdotjs&logoColor=EEEDFE)
-![TypeScript](https://img.shields.io/badge/TypeScript-534AB7?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-7F77DD?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-AFA9EC?style=for-the-badge&logo=redux&logoColor=3C3489)
+- **Backend concepts:** REST API design, Authentication (Sanctum), Queue Jobs, Task Scheduling, Role-Based Access Control (Spatie)
+- **Frontend libs:** TanStack Query, shadcn/ui
+- **Integrations:** bKash, Stripe, Pathao, Steadfast, third-party APIs
+- **Architecture & planning:** System Design, CI/CD, SRS, User Stories, ER Modeling, SEO, Web Performance
+- **Environment:** Laragon, cPanel, CyberPanel, Claude Code
 
 </details>
 
-<!-- Backend -->
-<details open>
-<summary><b>⚙️ Backend</b></summary>
 <br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-3C3489?style=for-the-badge&logo=node.js&logoColor=AFA9EC)
-![Express](https://img.shields.io/badge/Express.js-534AB7?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-7F77DD?style=for-the-badge&logo=laravel&logoColor=white)
-
-</details>
-
-<!-- Database -->
-<details open>
-<summary><b>🗄️ Database</b></summary>
-<br/>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EEEDFE?style=for-the-badge&logo=postgresql&logoColor=534AB7)
-![MongoDB](https://img.shields.io/badge/MongoDB-3C3489?style=for-the-badge&logo=mongodb&logoColor=AFA9EC)
-![MySQL](https://img.shields.io/badge/MySQL-534AB7?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-7F77DD?style=for-the-badge&logo=firebase&logoColor=white)
-
-</details>
-
-<!-- Tools -->
-<details open>
-<summary><b>🧰 Tools</b></summary>
-<br/>
-
-![Git](https://img.shields.io/badge/Git-3C3489?style=for-the-badge&logo=git&logoColor=AFA9EC)
-![Postman](https://img.shields.io/badge/Postman-534AB7?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-7F77DD?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</details>
-
----
 
 ## 💼 Experience
 
-<br/>
-
-<!-- Nidus Lab -->
-<img src="https://img.shields.io/badge/Nidus%20Lab-EEEDFE?style=for-the-badge&logoColor=534AB7&labelColor=534AB7&color=EEEDFE" />
-&nbsp;
-<img src="https://img.shields.io/badge/Jan%202026–Present-7F77DD?style=flat-square&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Full%20Time-3C3489?style=flat-square" />
-
-**Jr. Software Engineer**
-
-- 🔧 Laravel-based backend development & testing
-- ⚛️ Next.js + TypeScript frontend interfaces
-- 🔌 RESTful API design for web & mobile apps
-- 💳 Third-party integrations — payments, SMS, email
-- 🤝 Collaboration with design, product & QA teams
+| Period | Role | What I do |
+|---|---|---|
+| **Sep 2026 – Present** | **Software Engineer**<br/>Softtech Solution LTD. | Build and maintain e-commerce platforms with Laravel and Next.js, deliver new features and modules, and update servers via hosting control panels |
+| **Jan 2026 – Aug 2026** | **Junior Software Engineer**<br/>NidusLab | Developed full-stack apps with Laravel, Next.js and TypeScript, built RESTful APIs, translated designs into responsive, production-ready interfaces |
+| **Aug 2025 – Dec 2025** | **Junior Software Developer**<br/>Alor Feri Limited | System analysis, full-stack features, API integration and optimization, bug fixing, performance improvements, documentation |
+| **Jan 2024 – May 2024** | **Backend Development Intern**<br/>Pressply LLC | REST APIs with Next.js, Express.js, PostgreSQL and Prisma; Stripe integration; scalable e-commerce backend |
 
 <br/>
 
-<!-- Alor Feri Limited -->
-<img src="https://img.shields.io/badge/Alor%20Feri%20Limited-EEEDFE?style=for-the-badge&logoColor=534AB7&labelColor=534AB7&color=EEEDFE" />
-&nbsp;
-<img src="https://img.shields.io/badge/Aug%202025–Dec%202025-7F77DD?style=flat-square" />
-
-**Junior Software Developer**
-
-- 🏗️ System design, development & testing
-- 🔍 Code reviews & debugging
-- 📈 Team collaboration & code quality improvement
-
-<br/>
-
-<!-- Pressply LLC -->
-<img src="https://img.shields.io/badge/Pressply%20LLC-EEEDFE?style=for-the-badge&logoColor=534AB7&labelColor=534AB7&color=EEEDFE" />
-&nbsp;
-<img src="https://img.shields.io/badge/Jan%202024–May%202024-7F77DD?style=flat-square" />
-
-**Backend Intern**
-
-- 🛒 E-commerce backend with Express & PostgreSQL
-- 💳 Stripe payment system integration
-- 🤝 Close collaboration with frontend team
-
----
-
-## 🚀 Projects
-
-<br/>
-
-<div align="center">
+## 🚀 Featured Projects
 
 <table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Tech Stack</th>
-      <th>Live</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><b>🔮 KIK QR Card</b></td>
-      <td>Smart digital QR-based profile sharing with live preview &amp; customization</td>
-      <td>
-        <img src="https://img.shields.io/badge/Next.js-3C3489?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-534AB7?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-7F77DD?style=flat-square&logo=tailwind-css&logoColor=white"/>
-      </td>
-      <td align="center"><a href="https://is.gd/77VNPv"><img src="https://img.shields.io/badge/View-EEEDFE?style=flat-square&logo=vercel&logoColor=534AB7"/></a></td>
-    </tr>
-    <tr>
-      <td align="center"><b>📅 Booking System</b></td>
-      <td>Booking tracking + invoice generation with downloadable receipts</td>
-      <td>
-        <img src="https://img.shields.io/badge/Next.js-3C3489?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-534AB7?style=flat-square&logo=firebase&logoColor=white"/>
-      </td>
-      <td align="center"><a href="https://is.gd/lBG66L"><img src="https://img.shields.io/badge/View-EEEDFE?style=flat-square&logo=vercel&logoColor=534AB7"/></a></td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>💝 SN Foundation</h3>
+      <p>Child sponsorship platform with monthly sponsorships you can pause, extend or cancel, including installments. Solo-built.</p>
+      <p>
+        10+ modules · real-time messaging · concern reports · Stripe &amp; bKash · recurring and project-based donations with Zakat calculation · 4 role-based dashboards
+      </p>
+      <p><sub><b>Laravel · Next.js · Sanctum · Spatie · Redis · TanStack Query · Queues</b></sub></p>
+      <a href="https://snfoundations.org"><img src="https://img.shields.io/badge/Live-snfoundations.org-7F77DD?style=flat-square" alt="Live"/></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤝 Expro Welfare Foundation</h3>
+      <p>Welfare and pension platform with installment-based monthly savings and multi-year pension packages.</p>
+      <p>
+        370+ endpoints · 10+ modules · SRS, ER diagrams and migrations · versioned, rate-limited APIs · dynamic CMS for blogs, notices and documents
+      </p>
+      <p><sub><b>Laravel · Next.js · TanStack Query · Tailwind CSS</b></sub></p>
+      <a href="https://ewfbd.org"><img src="https://img.shields.io/badge/Live-ewfbd.org-7F77DD?style=flat-square" alt="Live"/></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔮 KIK QR Card</h3>
+      <p>Smart digital card platform to create and share personalized QR-based cards.</p>
+      <p>
+        Live preview · custom design options · bKash payment
+      </p>
+      <p><sub><b>Next.js · MongoDB · Tailwind CSS</b></sub></p>
+      <a href="https://kikqrcard.netlify.app/"><img src="https://img.shields.io/badge/Live-kikqrcard-7F77DD?style=flat-square" alt="Live"/></a>
+    </td>
+  </tr>
 </table>
 
-</div>
+<br/>
 
----
-## 🎓 Education
+## 🎓 Education & Certification
 
-<div align="center">
-
-![AIUB](https://img.shields.io/badge/American%20International%20University--Bangladesh-EEEDFE?style=for-the-badge&logoColor=3C3489&color=EEEDFE&labelColor=534AB7)
-
-**BSc in Computer Science & Engineering (Software Engineering)**  
-🏅 CGPA: **3.66 / 4.00**
-
-</div>
-
----
-
-## 📊 GitHub Stats
+- **BSc in Computer Science & Engineering (Software Engineering)**, American International University-Bangladesh (AIUB), 2020 – 2024, CGPA **3.66 / 4.00**
+- **IT Essentials**, Cisco (July 2020)
 
 <br/>
 
+## 📊 GitHub Activity
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakon-aiubcse&theme=tokyonight&hide_border=false&background=EEEDFE&ring=7F77DD&fire=534AB7&currStreakLabel=3C3489&sideLabels=534AB7&dates=534AB7&currStreakNum=3C3489&sideNums=3C3489&stroke=CECBF6&border=CECBF6" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kakon-aiubcse&show_icons=true&bg_color=EEEDFE&title_color=534AB7&icon_color=7F77DD&text_color=3C3489&border_color=CECBF6&border_radius=12&hide_border=false" width="49%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kakon-aiubcse&theme=transparent&hide_border=true&background=00000000&ring=AFA9EC&fire=AFA9EC&currStreakNum=EEEDFE&currStreakLabel=AFA9EC&sideNums=EEEDFE&sideLabels=AFA9EC&dates=AFA9EC&stroke=534AB7"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=kakon-aiubcse&theme=transparent&hide_border=true&background=00000000&ring=7F77DD&fire=7F77DD&currStreakNum=3C3489&currStreakLabel=534AB7&sideNums=3C3489&sideLabels=534AB7&dates=534AB7&stroke=CECBF6"/>
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=kakon-aiubcse&theme=transparent&hide_border=true"/>
+  </picture>
 </div>
 
-<br/>
-<br/>
+<!-- Optional self-hosted stats: after adding .github/workflows/metrics.yml and running it once,
+     uncomment the block below. It's generated inside your own repo, so it never breaks.
 
----
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kakon-aiubcse&color=7F77DD&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true"/>
+  <img src="./github-metrics.svg" alt="GitHub metrics"/>
 </div>
+-->
 
+<br/>
+
+<!-- ============ FOOTER ============ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7F77DD,100:3C3489&section=footer" width="100%" alt=""/>
+</div>
